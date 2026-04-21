@@ -68,5 +68,11 @@ criação de um site básico com base em html e css
         <footer>
             <span>subtotal: R$ 0,00</span>
         </footer>
+
+        <h2>alertas</h2>
+<div class="alert alert-danger" role="alert">
+  This is a danger alert! clique <a href="#" class="alert-link"> aqui</a> para saber mais
+</div>
+
         
      </body>
